@@ -6,7 +6,7 @@ sites:
   - name: Frontend Service
     url: https://my.trebellar.app
   - name: Ingestion Service
-    url: https://ingestion.trebellar.app
+    url: https://ingestion.trebellar.app/alive
 
 status-website:
   cname: status.trebellar.com
