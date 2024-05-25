@@ -22,7 +22,7 @@
     "url": "https://ingestion.trebellar.app/alive",
     "icon": "https://icons.duckduckgo.com/ip3/ingestion.trebellar.app.ico",
     "slug": "ingestion-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
     "uptimeDay": "88.09%",
     "uptimeWeek": "98.30%",
