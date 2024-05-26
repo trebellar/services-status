@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.trebellar.app.ico",
     "slug": "frontend-service",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 422,
     "timeDay": 1364,
     "timeWeek": 676,
     "timeMonth": 422,
     "timeYear": 422,
-    "dailyMinutesDown": {
-      "2024-05-25": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ingestion Service",
@@ -25,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ingestion.trebellar.app.ico",
     "slug": "ingestion-service",
     "status": "down",
-    "uptime": "99.00%",
-    "uptimeDay": "75.69%",
-    "uptimeWeek": "96.53%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.00%",
+    "uptime": "98.93%",
+    "uptimeDay": "73.61%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
     "time": 2209,
     "timeDay": 4325,
     "timeWeek": 3563,
     "timeMonth": 2209,
     "timeYear": 2209,
     "dailyMinutesDown": {
-      "2024-05-25": 351,
+      "2024-05-26": 12,
+      "2024-05-25": 369,
       "2024-04-29": 25
     }
   }
