@@ -4,18 +4,20 @@
     "url": "https://my.trebellar.app",
     "icon": "https://icons.duckduckgo.com/ip3/my.trebellar.app.ico",
     "slug": "frontend-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 195,
-    "timeWeek": 274,
-    "timeMonth": 417,
-    "timeYear": 377,
-    "dailyMinutesDown": {}
+    "time": 373,
+    "timeDay": 159,
+    "timeWeek": 255,
+    "timeMonth": 408,
+    "timeYear": 373,
+    "dailyMinutesDown": {
+      "2024-06-19": 0
+    }
   },
   {
     "name": "Ingestion Service",
