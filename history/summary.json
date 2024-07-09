@@ -22,7 +22,7 @@
     "url": "https://ingestion.trebellar.app/alive",
     "icon": "https://icons.duckduckgo.com/ip3/ingestion.trebellar.app.ico",
     "slug": "ingestion-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 232,
     "timeYear": 1316,
     "dailyMinutesDown": {
+      "2024-07-09": 0,
       "2024-05-26": 53,
       "2024-05-25": 369,
       "2024-04-29": 25
