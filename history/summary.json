@@ -4,19 +4,19 @@
     "url": "https://my.trebellar.app",
     "icon": "https://icons.duckduckgo.com/ip3/my.trebellar.app.ico",
     "slug": "frontend-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 2025,
-    "timeWeek": 973,
-    "timeMonth": 563,
-    "timeYear": 456,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 539,
+    "timeDay": 3044,
+    "timeWeek": 1485,
+    "timeMonth": 757,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2024-07-18": 0
+      "2024-07-18": 22
     }
   },
   {
