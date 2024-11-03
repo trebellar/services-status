@@ -6,9 +6,9 @@
     "slug": "frontend-service",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 553,
     "timeDay": 258,
@@ -16,7 +16,6 @@
     "timeMonth": 369,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2024-11-02": 7,
       "2024-09-12": 28,
       "2024-07-18": 43
     }
