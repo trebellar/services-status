@@ -1,7 +1,7 @@
 url: https://ingestion.trebellar.app/alive
-status: up
-code: 200
-responseTime: 371
-lastUpdated: 2026-02-21T23:08:35.540Z
+status: down
+code: 521
+responseTime: 214
+lastUpdated: 2026-02-22T06:46:06.433Z
 startTime: 2024-04-29T18:49:19.040Z
 generator: Upptime <https://github.com/upptime/upptime>
